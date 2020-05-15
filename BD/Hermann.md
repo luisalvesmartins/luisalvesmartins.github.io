@@ -1,4 +1,4 @@
-# BD
+# Hermann
 
 [Hermann & family](https://fr.wikipedia.org/wiki/Hermann_(auteur))
 
