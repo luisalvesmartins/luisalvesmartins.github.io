@@ -19,6 +19,16 @@ My favourite books in French, English, Portuguese and Spanish
 ## Dany
 
 ![HSH](images/Histoire_Sans_Heros.jpg ':size=100x131')
+![HSH](images/Histoire_Sans_Heros_20.jpg ':size=100x131')
+
+## Derib
+
+![1](images/Buddy_Lonway_I1.jpg ':size=100x131')
+![2](images/Buddy_Lonway_I2.jpg ':size=100x131')
+![3](images/Buddy_Lonway_I3.jpg ':size=100x131')
+![4](images/Buddy_Lonway_I4.jpg ':size=100x131')
+![5](images/Buddy_Lonway_I5.jpg ':size=100x131')
+
 
 ## Ed Brubaker & Sean Philips
 
@@ -28,6 +38,14 @@ My favourite books in French, English, Portuguese and Spanish
 
 ![1](images/Saga_B1.jpg ':size=100x131')
 ![2](images/Saga_B2.jpg ':size=100x131')
+
+## Fred Duval & Gess
+
+![1](images/Carmen_McCallum_I1.jpg ':size=100x131')
+![2](images/Carmen_McCallum_I2.jpg ':size=100x131')
+![3](images/Carmen_McCallum_I3.jpg ':size=100x131')
+![4](images/Carmen_McCallum_I4.jpg ':size=100x131')
+![5](images/Carmen_McCallum_I5.jpg ':size=100x131')
 
 ## [Franz](BD/Franz.md)
 
@@ -43,10 +61,20 @@ My favourite books in French, English, Portuguese and Spanish
 ![OPH](images/O_Primeiro_Homem.jpg ':size=100x132')
 ![OES](images/O_Estrangeiro.jpg ':size=100x132')
 
+## [Gillon](BD/Gillon.md)
+
+![1](images/Les_naufrages_du_temps_I1.jpg ':size=100x131')
+![2](images/Les_naufrages_du_temps_I2.jpg ':size=100x131')
+![2](images/Jeremie_I1.jpg ':size=100x131')
+
 
 ## [Giraud](BD/Giraud.md)
 
 ![Blueberry_HC](images/Blueberry_HC_Apaches.jpg ':size=100x131')
+
+## [Goscinny](BD/Goscinny.md)
+
+![1](images/OumpahPah01.jpg ':size=100x131')
 
 
 ## [Hermann](BD/Hermann.md)
@@ -69,6 +97,10 @@ Bernard Prince, Jeremiah, Les Tours de Bois-Maury, Comanche, Duke and a set of s
 
 ## Loustal
 ![](Images/La_Couleur_des_Reves.jpg ':size=100x131')
+
+## Magniaux
+
+![](Images/charlot_a_quimera_do_ouro.jpg ':size=100x131')
 
 ## [Manara](BD/Manara.md)
 
@@ -95,15 +127,30 @@ Bernard Prince, Jeremiah, Les Tours de Bois-Maury, Comanche, Duke and a set of s
 ![8](images/Le_Vagabond_des_Limbes_T8.jog.jpg ':size=100x131')
 ![11](images/Le_Vagabond_des_Limbes_T11.jog.jpg ':size=100x131')
 
+## Roba
+
+![17](images/Boule_et_Bill_17.jpg ':size=100x131')
+
 ## [Rosinsky](BD/Rosinsky.md)
 
 ![1](images/La_Vengeance_Du_Comte_Skarbek_Int.jpg ':size=100x131')
+
+## [Segrelles](BD/Segrelles.md)
+![1](images/le_mercenaire_T1.jpg ':size=100x131')
+![2](images/le_mercenaire_T2.jpg ':size=100x131')
+![3](images/le_mercenaire_T3.jpg ':size=100x131')
 
 ## [Servais](BD/Servais.md)
 
 ![](images/Terna_Violeta_2.jpg ':size=100x131')
 ![](images/iriacynthe-3eme-version.jpg ':size=100x131')
 ![](images/lova-1.jpg ':size=100x131')
+
+## Sirius
+
+![](images/timour01.jpg ':size=100x131')
+![](images/timour02.jpg ':size=100x131')
+
 
 ## [Vance](BD/Vance.md)
 
@@ -115,6 +162,11 @@ Bernard Prince, Jeremiah, Les Tours de Bois-Maury, Comanche, Duke and a set of s
 ![O Guerreiro do Arco Iris](images/O_guerreiro_do_arco_iris.jpg ':size=100x132')
 ![Mathai Dor 1](images/Mathai_Dor_1.jpg ':size=100x132')
 ![Anjos](images/Les_Anges_Dacier_T1.jpg ':size=100x132')
+
+## Vitor Péon
+
+![](images/tomahawk_tom.gif ':size=100x131')
+
 
 ## Warnauts-Raives
 

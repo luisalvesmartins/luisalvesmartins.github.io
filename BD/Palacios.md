@@ -13,7 +13,7 @@
 ![](images/maccoy_t7.jpg ':size=200x263')
 ![](images/maccoy_t8.jpg ':size=200x263')
 ![](images/maccoy_t9.jpg ':size=200x263')
-![](images/missing.jpg ':size=200x263')
+![](images/maccoy_t10.jpg ':size=200x263')
 ![](images/maccoy_t11.jpg ':size=200x263')
 ![](images/maccoy_t12.jpg ':size=200x263')
 ![](images/maccoy_t13.jpg ':size=200x263')
